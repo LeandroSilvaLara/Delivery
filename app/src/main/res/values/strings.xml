@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FavDish</string>
+    <string name="title_home">Home</string>
+    <string name="splash_screen_title">Fav Dish</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="add_dish">Add Dish</string>
+    <string name="lbl_direction_to_cook">Direction To Cook</string>
+    <string name="lbl_cooking_time_in_minutes">Cooking Time In Minutes</string>
+    <string name="lbl_ingredients">Ingredients</string>
+    <string name="lbl_category">Category</string>
+    <string name="lbl_type">Type</string>
+    <string name="lbl_title">Title</string>
+    <string name="lbl_add_dish">ADD DISH</string>
+    <string name="lbl_camera">Camera</string>
+    <string name="title_select_image_action">Select Image Action</string>
+    <string name="lbl_gallery">Gallery</string>
+
+    <string name="title_select_dish_type">SELECT DISH TYPE</string>
+    <string name="title_select_dish_category">SELECT DISH CATEGORY</string>
+    <string name="title_select_dish_cooking_time">SELECT COOKING TIME IN MINUTES</string>
+
+    <string name="err_msg_select_dish_image">Select dish image.</string>
+    <string name="err_msg_select_dish_title">Enter dish title.</string>
+    <string name="err_msg_select_dish_type">Select dish type.</string>
+    <string name="err_msg_select_dish_category">Select dish category.</string>
+    <string name="err_msg_select_dish_ingredients">Select dish ingredients.</string>
+    <string name="err_msg_select_dish_cooking_time">Select dish cooking time.</string>
+    <string name="err_msg_select_dish_cooking_instructions">Select dish cooking instructions.</string>
+</resources>
